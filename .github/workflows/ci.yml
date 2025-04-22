@@ -24,5 +24,3 @@ on:
         run: |
           gcc -o teste teste.c
           ./teste
-
-          
