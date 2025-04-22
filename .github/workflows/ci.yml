@@ -3,7 +3,7 @@ name: CI para C
 on:
   push:
 
-  jobs:
+jobs:
     build:
       runs-on: ubuntu-latest
 
